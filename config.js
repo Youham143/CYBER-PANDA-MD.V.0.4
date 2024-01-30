@@ -22,7 +22,7 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 //
 global.Owner = ["+923178511210", "+923178511210"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94772108460", "+94772108460"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+923178511210", "+923178511210"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
 global.ownertag = ["+923178511210"];
 global.OwnerName = "HAMZA";
 global.BotName = "DARK KHAN";
